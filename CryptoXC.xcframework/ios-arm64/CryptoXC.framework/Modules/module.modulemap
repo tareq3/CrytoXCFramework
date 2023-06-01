@@ -1,0 +1,11 @@
+framework module CryptoXC {
+  umbrella header "CryptoXC.h"
+
+  export *
+  module * { export * }
+}
+
+module CryptoXC.Swift {
+  header "CryptoXC-Swift.h"
+  requires objc
+}
