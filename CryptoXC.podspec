@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = "Cryptography functions and helpers for Swift implemented in Swift. SHA-1, SHA-2, SHA-3, MD5, PBKDF1, PBKDF2, Scrypt, CRC, Poly1305, HMAC, ChaCha20, Rabbit, Blowfish, AES, RSA"
   s.homepage     = "https://github.com/tareq3/CrytoXCFramework"
   s.license      = { :type => 'MIT' }
-  s.authors      = {'Marcin Krzyżanowski' => 'marcin@krzyzanowskim.com'}
+  s.authors      = {'Tareq' => 'mti.tareq3@gmail.com'}
   s.requires_arc = true
   # s.cocoapods_version = '>= 1.10.0'
   # s.swift_version = "5.6"
